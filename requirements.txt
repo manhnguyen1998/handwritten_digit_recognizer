@@ -1,4 +1,7 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 8135bff6ec9d96d3d83898b28bd8b411db7efb40
 absl-py==0.7.1
 astor==0.7.1
 backports.weakref==1.0.post1
@@ -31,6 +34,7 @@ tensorflow==1.13.1
 tensorflow-estimator==1.13.0
 termcolor==1.1.0
 Werkzeug==0.15.2
+<<<<<<< HEAD
 =======
 Flask
 h5py
@@ -39,3 +43,5 @@ imageio
 gunicorn
 
 >>>>>>> 8ca164ee0b900e642ade9185987ef25e066884d3
+=======
+>>>>>>> 8135bff6ec9d96d3d83898b28bd8b411db7efb40
